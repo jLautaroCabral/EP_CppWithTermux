@@ -1,6 +1,7 @@
 #include <iostream>
 using namespace std;
 
+// Ejemplo de punteros
 int main() {
 	cout << endl;
 	cout << "------- End Warnings " << endl;

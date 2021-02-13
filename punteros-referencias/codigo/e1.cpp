@@ -1,6 +1,8 @@
 #include <iostream>
 using namespace std;
 void end();
+
+// Ejemplo de punteros
 int main() {
 	char s[20] = "hola mundo";
 	char *p;
