@@ -4,4 +4,7 @@ class Square : public Figure {
 	private:
 		float side_;
 	
-	public
+	public:
+		Square(float side_lenght);
+		float getArea() const;
+};
